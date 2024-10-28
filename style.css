@@ -1,0 +1,11 @@
+#reloj {
+  font-size: 225px;
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 45px 0px;
+}
+.tiempo {
+  margin: 0 5px;
+}
